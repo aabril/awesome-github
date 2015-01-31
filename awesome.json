@@ -1,0 +1,24 @@
+[
+	{
+		"username" : "shipitjs",
+		"name" : "shipit",
+		"description" : "Universal automation and deployment tool written in JavaScript.",
+		"repo_url" : "https://github.com/shipitjs/shipit",
+		"ext_url" : "",
+		"language" : "javascript",
+		"category1" : "devops" , 
+		"category2" : "deployment",
+		"tags" : "#automation #deployment #deploy" 
+	},
+	{
+		"username" : "arasatasaygin",
+		"name" : "is.js",
+		"description" : "Micro check library https://arasatasaygin.github.io/is.js",
+		"repo_url" : "https://github.com/arasatasaygin/is.js",
+		"ext_url" : "https://arasatasaygin.github.io/is.js",
+		"language" : "javascript",
+		"category1" : "development" , 
+		"category2" : "validation",
+		"tags" : "#check #validation #microlibrary" 
+	},
+]
