@@ -1,0 +1,26 @@
+{
+  "name": "awesome-github",
+  "version": "1.0.0",
+  "description": "A CLI tool for create A curated list of awesome GitHub repositories.",
+  "main": "awesome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aabril/awesome-github.git"
+  },
+  "keywords": [
+    "cli",
+    "github",
+    "awesome",
+    "curated",
+    "list"
+  ],
+  "author": "aabril",
+  "license": "DP",
+  "bugs": {
+    "url": "https://github.com/aabril/awesome-github/issues"
+  },
+  "homepage": "https://github.com/aabril/awesome-github"
+}
