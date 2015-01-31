@@ -1,0 +1,3 @@
+username, name, description, repo url, ext url, language, category 1, category 2, tags
+shipitjs, shipit, Universal automation and deployment tool written in JavaScript., https://github.com/shipitjs/shipit, , javascript, devops, deployment, #automation #deployment #deploy
+arasatasaygin, is.js, Micro check library https://arasatasaygin.github.io/is.js, https://github.com/arasatasaygin/is.js, javascript, development, validation, #check #validation #microlibrary
